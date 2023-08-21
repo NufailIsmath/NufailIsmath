@@ -17,7 +17,6 @@ Hi there, this is Nufail. Blockchain Developer by choice :muscle:
 - :mortar_board: BEng (Hons) in Software Engineering
 - :writing_hand: Blogger
 - :sparkling_heart: To Code
-- :monocle_face: Looking.... 
 - :rofl: Loves Meme || Meme Creator lol 
 
 ---
